@@ -8,11 +8,11 @@ We have conducted hundreds of technical interviews in our career, mostly in the 
 
 > **Whiteboard live coding requires to solve a very specific problem in a very constrained timeframe without external resources. It looks for very specific coding problem solving skill under intensive pressure.**.
 
-One would argue that's the trait separating the best from the good. Probably true for drafting people for coding competitions, not so much for assembling a team to build a product. Think about how we build a feature normally, we research the domain from the open web, learn our competitors, discuss with our peers. Coding is just part of the puzzle, and most likely we would never encounter any coding question in our work (have you ever written dynamic programming algorithm besides interview?). Even encountered, those arcane coding questions are just one [stackoverflow](stackoverflow.com) away.
+One would argue that's the trait separating the best from the good. Probably true for drafting people for coding competitions, not so much for assembling a team to build a product. Think about how we build a feature normally, we research the domain from the open web, learn our competitors, discuss with our peers, design the UX and interaction, write code, release and refine. Coding is just part of the process, and most likely we would never encounter any coding question in our work (have you ever written dynamic programming algorithm besides interview?). Even encountered, those arcane coding questions are just one [stackoverflow](stackoverflow.com) away.
 
-> **Daily work requires solving a semi-specific problem in a semi-constrained timeframe with abundant external resources. It looks for general engineering problem solving skill under an open-ended environment**.
+> **Daily work requires solving a semi-specific problem in a semi-constrained timeframe with abundant external resources. It looks for general product/engineering problem solving skill under an open-ended environment**.
 
-Most problems do have a defined domain, but there remains many uncertainties, and some of those revealation may totally change the scope. We do have a deadline, but at least it's in days instead of in minutes. And most importantly, we are solving together with the open web, the people around us.
+Most problems do have a defined domain, but there remains many uncertainties, and some of those revealation may totally change the scope. We do have a deadline, but at least it's in days instead of in minutes. And more importantly, we are solving together with the open web, the people around us.
 
 In whiteboard live coding, both the problem and solution are already pre-determinted. While in take-home assignment, we only define a broad scope and some requirements, it's up to the candidate to craft the solution. That's what we expect for peers at Bytebase, to de/refine the problem, own the solution, deliver enlightenment.
 
@@ -24,14 +24,14 @@ In whiteboard live coding, both the problem and solution are already pre-determi
 
 # FAQ
 
-Q: Are you worrying about candidate preparing the problem in advance to gain an edge?
+_Q: Are you worrying about candidate preparing the problem in advance to gain an edge?_
 
 A: Not at all. One can only prepare for couple weeks, but we are evaluating candidate's years of accumulation.
 
-Q: I have new ideas, suggestions.
+_Q: I have new ideas, suggestions._
 
 A: Opening new issue, creating PR. We will respond in a timely fashion. Thanks in advance.
 
-Q: I want to apply.
+_Q: I want to apply._
 
-Checkout https://bytebase.com/jobs and mail us at hr@bytebase.com with your resume/portfolio/blog etc... (anything you feel proud)
+A: Checkout https://bytebase.com/jobs and mail us at hr@bytebase.com with your resume/portfolio/blog etc... (anything you feel proud)
