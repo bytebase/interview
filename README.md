@@ -20,7 +20,7 @@ In whiteboard live coding, both the problem and solution are already pre-determi
 
 1. The [main Bytebase codebase](https://github.com/bytebase/bytebase) is also open source. We believe in building in the public.
 1. Design good take-home assignments is no easy task. Open sourcing our assignments gives more chance for improvements.
-1. It's convenient for our candiate to checkout the problem.
+1. It's convenient for our candidate to checkout the problem.
 
 # FAQ
 
