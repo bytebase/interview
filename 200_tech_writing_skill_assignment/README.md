@@ -13,3 +13,7 @@ Bytebase is a dev tool specialized in database domain, and it requires a good un
 # Process
 
 We will give you 2 days to write an article. We may require a particular topic or you may choose a topic that interests you as long as it's relevant to our field.
+
+# Deliverable
+
+You can use whatever platform to host the article such as Notion, Feishu, GitHub page, your personal blog and etc, as long as you provide an URL that we can access.
