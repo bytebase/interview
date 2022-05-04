@@ -3,6 +3,8 @@
 Build a employee page to show and edit the employee info. Some inspirations:
 
 1. [Stripe Home](https://stripe.com/blog/stripe-home)
+1. [Polywork](https://www.polywork.com/)
+1. [read.cv](https://read.cv/)
 
 # Instructions
 
